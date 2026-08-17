@@ -1,0 +1,3 @@
+metric_name,primary_source,secondary_source,common_dimensions
+Medscape,spends,impressions,
+Medscape,spends,clicks,
